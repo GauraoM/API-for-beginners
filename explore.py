@@ -14,8 +14,8 @@ for message in client.message.list():
 
 # Send new message
 msg = client.messages.create(
-    to = "+919860518###",
-    from_ = "+19036231###",
+    to = "+########",
+    from_ = "+1########",
     body= "Hello from Python..."
 )    
 
